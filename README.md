@@ -41,12 +41,12 @@ Complete the following lab series: <a href="https://github.com/gwendus/ADInfrast
 - Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write”<br />
 - (Skip accounting for now)<br />
 
-<img src="https://i.imgur.com/Fzs2Gql.png" height="80%" width="80%" alt="give read access 2"/>
+<img src="https://i.imgur.com/Fzs2Gql.png" height="60%" width="60%" alt="give read access 2"/>
 <br />
 <br />
 <br />
 
-<img src="https://i.imgur.com/LJHtQvW.png" height="80%" width="80%" alt="give read access 1"/>
+<img src="https://i.imgur.com/LJHtQvW.png" height="40%" width="40%" alt="give read access 1"/>
 <br />
 <br />
 <h2>Accessing File Shares</h2>
@@ -77,7 +77,7 @@ Go back to DC-1, in Active Directory, create a security group called “ACCOUNTA
 <img src="https://i.imgur.com/nti61lx.png" height="60%" width="60%" alt="new group lol"/>
 <br />
 <br />
-<img src="https://i.imgur.com/HO9TDvg.png" height="60%" width="60%" alt="new group lol2"/>
+<img src="https://i.imgur.com/HO9TDvg.png" height="50%" width="50%" alt="new group lol2"/>
 <br />
 <br />
 
@@ -97,7 +97,7 @@ On Client-1, as  <someuser>, try to access the accountants folder. It should fai
 <br />
 
 Log out of Client-1 as  <someuser>. <br />
-<img src="https://i.imgur.com/YmT3U3W.png" height="80%" width="80%" alt="logout"/>
+<img src="https://i.imgur.com/YmT3U3W.png" height="40%" width="40%" alt="logout"/>
 <br />
 <br />
 
